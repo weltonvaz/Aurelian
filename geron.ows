@@ -58,7 +58,7 @@ cmVzc2FvX21lZGlhlGhSSwBoDohlZXNoQEsBdWhZKIwEZGF0YZRLBIaUjBF0ZW1wZXJhdHVyYV9t
 ZWRpYZRLAoaUjAd1bWlkYWRllEsChpSMEHZlbG9jaWRhZGVfdmVudG+USwKGlIwNcHJlc3Nhb19t
 ZWRpYZRLAoaUdJRoXyloYyloZF2UdWJldS4=
 </properties>
-		<properties node_id="1" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.5, 'learner_name': '', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\x07\x00\x00\x00\xa4\x00\x00\x03O\x00\x00\x02\x16\x00\x00\x02\x08\x00\x00\x00\xc3\x00\x00\x03N\x00\x00\x02\x15\x00\x00\x00\x00\x00\x00\x00\x00\x05V\x00\x00\x02\x08\x00\x00\x00\xc3\x00\x00\x03N\x00\x00\x02\x15', '__version__': 1}</properties>
+		<properties node_id="1" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'fit_intercept': True, 'l2_ratio': 0.5, 'learner_name': '', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\x08\x00\x00\x00\xc3\x00\x00\x03N\x00\x00\x02\x15\x00\x00\x02\x08\x00\x00\x00\xc3\x00\x00\x03N\x00\x00\x02\x15\x00\x00\x00\x00\x00\x00\x00\x00\x05V\x00\x00\x02\x08\x00\x00\x00\xc3\x00\x00\x03N\x00\x00\x02\x15', '__version__': 1}</properties>
 		<properties node_id="2" format="pickle">gASVtwIAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMC2F1dG9fc2FtcGxllIiMEmNvbnRyb2xBcmVh
 VmlzaWJsZZSIjBNzYXZlZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAD/////////+AAABVYAAALY
 AAAAAAAAABcAAAVVAAAC1wAAAAACAAAABVYAAAAAAAAAFwAABVUAAALXlIwJc2VsZWN0aW9ulE6M
